@@ -1,5 +1,7 @@
 # 🧪 Projeto de Testes Automatizados com Cypress - LambdaTest Playground
 
+# ATENÇÃO: Todos os cenarios de testes estão descritos em BDD.feature.
+
 Este repositório contém testes automatizados desenvolvidos com [Cypress](https://www.cypress.io/) para validar os componentes de formulários, checkboxes, dropdowns e multi-select do site [LambdaTest Selenium Playground](https://www.lambdatest.com/selenium-playground/).
 
 ---
