@@ -10,7 +10,6 @@ cypress/<br/>
 └── e2e/<br/>
 ├── checkboxDemo.cy.js<br/>
 ├── dropdownDemo.cy.js<br/>
-├── multiSelectDemo.cy.js<br/>
 └── simpleFormDemo.cy.js<br/>
 
 ---
